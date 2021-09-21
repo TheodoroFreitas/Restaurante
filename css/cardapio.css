@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+#cardapio{
+    display: table ;
+    flex-direction: column;
+}
+
+
+#D{
+    display: table-cell;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0,0,0, 0.85);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 200px;
+    width: 250px;
+    height: 270px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Gill Sans", sans-serif;
+    margin-bottom: 50px;
+    display: inline-block ;
+}
+
+#A{
+    display: table-cell;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0,0,0, 0.85);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 200px;
+    width: 275px;
+    height: 270px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Gill Sans", sans-serif;
+    margin-bottom: 50px;
+    display: inline-block ;
+}/**/
+
+#B{
+    display: table-cell;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0,0,0, 0.85);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 200px;
+    width: 275px;
+    height: 270px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Gill Sans", sans-serif;
+    margin-bottom: 50px;
+    display: inline-block ;
+}
+
+#C{
+    display: table-cell;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0,0,0, 0.85);
+    margin: 10px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 200px;
+    width: 275px;
+    height: 270px;
+    justify-content: center;
+    align-items: center;
+    font-family: "Gill Sans", sans-serif;
+    margin-bottom: 50px;
+    display: inline-block ;
+}
+
+.card img{
+    padding: 5px;
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+
+
+

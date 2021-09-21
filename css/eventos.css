@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.text{
+    font-family: "Gill Sans", sans-serif;
+    margin-top: 115px;
+    text-align: center;
+}
+
+.video{
+width: 50%;
+height: 400px;
+margin-top: 20px;
+border-radius: 20px;
+border: solid black;
+
+}
+
+.rodape{
+    margin-top: 100px;
+}

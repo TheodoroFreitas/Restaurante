@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
     margin: 0;
     padding: 0;
@@ -24,14 +25,17 @@
     font-size: 100px;
     letter-spacing: 4px;
     margin-top: 10px;
+  }
 
+  .logo img{
+    width: 100px;
   }
   
   nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    font-family: "Gill Sans", sans-serif;
     background: rgb(247, 127, 0);
     height: 17vh;
     position: fixed;
@@ -75,6 +79,7 @@
   @media (max-width: 999px) {
     body {
       overflow-x: hidden;
+
       position: relative;
     }
     .nav-list {
@@ -127,9 +132,9 @@
     transform: rotate(45deg) translate(-5px, -7px);
   }
  /*conteudo */
-.section h1{
+.div h2{
   font-size: 1.3em;
-  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans", sans-serif;
   color: rgb(0, 48, 73);
 
 }
@@ -140,7 +145,7 @@ width: 100%;
 float: right;
 margin: 10px;
 text-align: center;
-font-family: Gill Sans, sans-serif;
+font-family: "Gill Sans", sans-serif;
 }
 
 .lateral2{
@@ -149,7 +154,7 @@ font-family: Gill Sans, sans-serif;
   float: right;
   margin: 10px;
   text-align: center;
-  font-family: Gill Sans, sans-serif;
+  font-family: "Gill Sans", sans-serif;
   }
 
 
@@ -159,15 +164,16 @@ font-family: Gill Sans, sans-serif;
   float: right;
   margin: 10px;
   text-align: center;
-  font-family: Gill Sans, sans-serif;
+  font-family: "Gill Sans", sans-serif;
   
 }
 
 .conteudo img{
-  border-radius: 50px;
   background-color: black;
-  border: solid black;
   text-align: center;
+  border: solid black 1px;
+  border-radius: 10px;
+  width: 300px;
 }
 
 .conteudo img:hover{
@@ -182,21 +188,28 @@ font-family: Gill Sans, sans-serif;
   clear: both;
   background: rgb(247, 127, 0);
   margin:0;   
-  padding:10px
+  padding: 10px;
   
 }
 
 .rodape p{
   text-align: center;
   font-size: 1.3em;
-  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
-  color: rgb(0, 48, 73);
+
+  font-family: "Gill Sans", sans-serif;
+  color: rgb(0, 0, 0);
 }
+
 .rodape h2{
   text-align: center;
+
   font-size: 1.3em;
-  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
-  color: rgb(0, 48, 73);
+  color: black;
+}
+
+.rodape img{
+  width: 30px;
 }
