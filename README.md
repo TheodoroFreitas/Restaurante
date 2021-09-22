@@ -1,6 +1,6 @@
 ![Website](https://img.shields.io/website?style=flat-square&url=https://theodorofreitas.github.io/Restaurante/)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?style=flat-square&targetUrl=https://theodorofreitas.github.io/Restaurante/)
-![GitHub]()
+![GitHub](https://img.shields.io/github/license/TheodoroFreitas/Restaurante)
 
 ### ALL Pages
 <p>
