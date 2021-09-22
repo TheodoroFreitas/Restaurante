@@ -14,7 +14,7 @@
       
 # Site De Restaurante
 Criado Para aprendizado e como portifolio
-tendo objetivo de demonstrar um Restaurante
+tendo objetivo de demonstrar um Restaurante ilusório
 Curso Técnico em T.I Senac Tatuapé
 ## Direitos
 Teodoro Freitas
@@ -23,6 +23,7 @@ Teodoro Freitas
 * CSS3
 * JS 
 * jQuery 
+* WOWslider - Slide do site
 
 ## Licença
  licença MIT -  LICENSE.md
