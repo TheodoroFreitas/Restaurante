@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.yep{
+    margin-top: 120px;
+    text-align: center;
+    font-family: Gill Sans, sans-serif;
+}
+
+.yep img{
+    border-radius: 10px;
+   border: solid black;
+   width: 60%;
+}
+
+.rodape{
+    margin-top: 50px;
+}
+
